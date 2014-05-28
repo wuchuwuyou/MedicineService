@@ -1,0 +1,7 @@
+platform:ios,'6.0'
+pod 'ASIHTTPRequest'
+pod 'AFNetworking', '~> 2.0'
+pod 'SDWebImage'
+pod 'UIView+AnimationExtensions'
+pod 'UIView+JMFrame'
+pod 'FMDB'
